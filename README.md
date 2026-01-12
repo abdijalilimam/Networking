@@ -25,7 +25,8 @@ NGINX on an AWS EC2 instance and exposing it to the internet using DNS.
 ---
 
 ## Screenshots
-![EC2 Running](screenshots/EC2.png)
+![EC2 Running]
+(screenshots/EC2.png)
 ![NGINX install](screenshots/nginxinstall.png)
 ![NGINX Running](screenshots/nginx.png)
 ![NGINX Running Local](nginxlocal.png)
