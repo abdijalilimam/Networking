@@ -28,17 +28,22 @@ NGINX on an AWS EC2 instance and exposing it to the internet using DNS.
 EC2 instance
 ![EC2 Running](screenshots/EC2.png)
 
+
 Installing NGINX
 ![NGINX install](screenshots/nginxinstall.png)
+
 
 NGINX Running on Website
 ![NGINX Running](screenshots/nginx.png)
 
-NGINX Running Local
+
+NGINX Local
 ![NGINX Running Local](nginxlocal.png)
+
 
 Security Groups
 ![Security Group](screenshots/security-group.png)
+
 
 DNS Setup
 ![DNS Setup](screenshots/dnsrecord.png)
